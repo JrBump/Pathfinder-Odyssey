@@ -8,7 +8,7 @@ Team Members
 * Alan Huff
 * Oliver Perrin
 
-# Project Description - TEMPORARY AS CAN BE
+# Project Description
 
 Product Vision
 
