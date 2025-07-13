@@ -1,12 +1,15 @@
-# Pathfinder-Odyssey
+# PathFinder's Odyssey
+# Umbreon
+Hi There!
 
 Team Members
+* Lucas Rector
+* Hardy Lewis IV
+* Alan Huff
+* Oliver Perrin
 
-Lucas Rector
-Hardy Lewis IV
-Alan Huff
-Oliver Perrin
-Project Description - TEMPORARY AS CAN BE
+# Project Description - TEMPORARY AS CAN BE
+
 Product Vision
 
 Team Name: Umbreon
@@ -17,6 +20,16 @@ Here, you will want to document the outcome of a “product vision” discussion
 
 First, complete the template below:
 
-FOR target customer: A game to be used by children and young adults WHO want to pass time and explore a simple 2d adventure landscape. THE game Pathfinder’s Odyssey is a 2D Top Down, Action Adventure Simulation THAT has graphics and world manipulation reminiscent of early 2d graphic games. UNLIKE Cool Math Games type games that rely on an internet connection, OUR PRODUCT provides a space focused on fun offline gameplay.
+FOR target customer:  A game to be used by children and young adults
+WHO want to pass time and explore a simple 2d adventure landscape.
+THE game Pathfinder’s Odyssey is a 2D Top Down, Action Adventure Simulation
+THAT has graphics and world manipulation reminiscent of early 2d graphic games.
+UNLIKE Cool Math Games type games that rely on an internet connection,
+OUR PRODUCT provides a space focused on fun offline gameplay.
 
-Second, feel free to add any further thoughts/details below: Pathfinder's Odyssey addresses the need for a captivating 2D adventure game that delivers on the desires for immersive exploration, compelling narratives, visually pleasing graphics, and memorable audio experiences.
+Second, feel free to add any further thoughts/details below:
+Pathfinder's Odyssey addresses the need for a captivating 2D adventure game that delivers on the desires for immersive exploration, compelling narratives, visually pleasing graphics, and memorable audio experiences.
+
+Details here. You don’t need to add anything here, but anything you add could be helpful later.
+……………………..
+
